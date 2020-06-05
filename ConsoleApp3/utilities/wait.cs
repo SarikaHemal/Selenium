@@ -35,11 +35,8 @@ namespace ConsoleApp3.utilities
             {
                 Console.WriteLine(e.Message);
             }
-        }
+        
 
-        internal static void ElementIsVisible(IWebdriver driver, string v1, string v2)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
